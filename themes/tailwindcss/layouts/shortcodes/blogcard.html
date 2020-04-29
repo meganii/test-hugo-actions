@@ -4,7 +4,7 @@
 {{ $getSizeURL := printf "http://localhost:6060/size?%s" (querify "url" $ogpjson.image ) }}
 {{ $imgjson := getJSON $getSizeURL }}
 
-<p></p><!-- Avoid overriding list -->
+<p></p>
 
 <div class="border border-grey-light rounded my-2">
     <div class="flex mx-12 p-3">
