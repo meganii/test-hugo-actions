@@ -1,0 +1,54 @@
+{
+    "ASIN": "B002M51C5S",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B002M51C5S?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 324,
+                "URL": "https://m.media-amazon.com/images/I/51O+kI7PjgL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 104,
+                "URL": "https://m.media-amazon.com/images/I/51O+kI7PjgL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 49,
+                "URL": "https://m.media-amazon.com/images/I/51O+kI7PjgL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "リコー",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "リコー",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "Camera",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Camera",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "RICOH デジタルカメラ CX2 ブラック CX2BK",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

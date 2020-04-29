@@ -1,0 +1,51 @@
+<!-- {{ $associateId := "meganii-22" }}
+
+{{ if .IsNamedParams }}
+{{ $.Scratch.Add "amazonItemId" ( .Get "id") }}
+{{ $.Scratch.Add "amazonItemWidth" ( .Get "width") }}
+{{ $.Scratch.Add "amazonItemHeight" ( .Get "height") }}
+{{ else }}
+{{ $.Scratch.Add "amazonItemId" ( .Get 0) }}
+{{ $.Scratch.Add "amazonItemWidth" "100" }}
+{{ $.Scratch.Add "amazonItemHeight" "100" }}
+{{ end }}
+
+{{ $itemId := $.Scratch.Get "amazonItemId" }}
+{{ $imgWidth := $.Scratch.Get "amazonItemWidth" }}
+{{ $imgHeight := $.Scratch.Get "amazonItemHeight" }}
+
+{{ $json := getJSON "data/amazon/" $itemId ".json"}}
+
+
+<p></p><!-- Avoid overriding list -->
+<div class="embed">
+  <div class="rf">
+    <div class="rr">
+      <div class="rcx12 rcm3 rtxc rpxs rpls">
+        <a href="{{ $json.Item.DetailPageURL }}">
+          <div>
+            <amp-img class="" src="{{ $json.Item.MediumImage.URL }}" alt="{{ $json.Item.ItemAttributes.Title }}" width="{{ $json.Item.MediumImage.Width }}" height="{{ $json.Item.MediumImage.Height }}" layout="fixed" />
+          </div>
+        </a>
+      </div>
+      <div class="rcx12 rcm9 rpls">
+        <div class="rf">
+          <div class="rr">
+            <div class="rcx12 body">
+              <a class="utdn" 
+                href="{{ $json.Item.DetailPageURL }}"><strong>{{ $json.Item.ItemAttributes.Title }}</strong></a>
+            </div>
+            <div class="rcm12 hx">
+              {{ if (or ( eq $json.Item.ItemAttributes.ProductGroup "Book") (eq $json.Item.ItemAttributes.ProductGroup "eBooks")) }}<div>出版社：{{ $json.Item.ItemAttributes.Publisher }}</div>{{ else if (eq $json.Item.ItemAttributes.ProductGroup "Shoes") }}<div>{{ $json.Item.ItemAttributes.Brand }}</div>{{ else }}<div>{{ $json.Item.ItemAttributes.Label }}</div>{{ end }}{{ with $json.Item.ItemAttributes.Author }}<div>著者: {{ . }}</div>{{ end }}{{ with $json.Item.ItemAttributes.PublicationDate }}<div>発売日: {{ . }}</div> {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="rr">
+      <div class="rcx12 rpxs rcm12">
+        <div><a href="{{ $json.Item.DetailPageURL }}" class="bp bf">Amazonでチェックする</a></div>
+      </div>
+    </div>
+  </div>
+</div> -->

@@ -1,0 +1,54 @@
+{
+    "ASIN": "B0109GGL4I",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B0109GGL4I?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/31CC7sLiEeL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/31CC7sLiEeL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/31CC7sLiEeL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "La-VIE(ラヴィ)",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "La-VIE(ラヴィ)",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "スポーツ用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Sports",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "La-VIE(ラヴィ) やわこ  ストレッチ ボール マッサージボール",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

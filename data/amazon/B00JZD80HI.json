@@ -1,0 +1,54 @@
+{
+    "ASIN": "B00JZD80HI",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B00JZD80HI?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/217ZCX32vgL.jpg",
+                "Width": 63
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/217ZCX32vgL._SL160_.jpg",
+                "Width": 20
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/217ZCX32vgL._SL75_.jpg",
+                "Width": 9
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "Pelikan",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "Pelikan",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "オフィス用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Office Product",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "ペリカン 万年筆 F 細字 黒 クラシック M200 正規輸入品",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

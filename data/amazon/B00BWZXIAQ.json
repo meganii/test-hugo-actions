@@ -1,0 +1,54 @@
+{
+    "ASIN": "B00BWZXIAQ",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B00BWZXIAQ?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/41tbBYECjdL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/41tbBYECjdL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/41tbBYECjdL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "エーゼット",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "AZ(エーゼット)",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "スポーツ用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Sports",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "AZ(エーゼット) A1-008 自転車用チェーンディグリーザー [高浸透タイプ] 500ml (チェーンクリーナー/チェーン洗浄剤/チェンクリーナー) AT605",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

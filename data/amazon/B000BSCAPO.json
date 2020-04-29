@@ -1,0 +1,54 @@
+{
+    "ASIN": "B000BSCAPO",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B000BSCAPO?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/3103+w-nSZL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/3103+w-nSZL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/3103+w-nSZL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "キャプテンスタッグ(CAPTAIN STAG)",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "キャプテンスタッグ(CAPTAIN STAG)",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "スポーツ用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Sports",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "キャプテンスタッグ(CAPTAIN STAG) キャンプ用マット 【Sサイズ】 キャンピングマット180×60cmブルー M-7381",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

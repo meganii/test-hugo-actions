@@ -1,0 +1,54 @@
+{
+    "ASIN": "B0019XWYC4",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B0019XWYC4?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/51DftGxokrL.jpg",
+                "Width": 473
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/51DftGxokrL._SL160_.jpg",
+                "Width": 151
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/51DftGxokrL._SL75_.jpg",
+                "Width": 71
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "PILOT",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "パイロットコーポレーション",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "オフィス用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Office Product",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "パイロット 万年筆インキ iroshizuku INK-50-TY ツキヨ",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

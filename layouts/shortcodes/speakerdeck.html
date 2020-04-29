@@ -1,0 +1,23 @@
+{{ $id := 0 }}
+{{ $width := 4 }}
+{{ $height := 3 }}
+
+{{ if .IsNamedParams }}
+  {{ $id = ( .Get "id") }}
+  {{ $width = 16 }}
+  {{ $height = 9 }}
+{{ else }}
+  {{ $id = .Get 0 }}
+{{ end }}
+
+<div>
+  <amp-iframe
+    width="{{ $width }}"
+    height="{{ $height }}"
+    allowfullscreen
+    sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"
+    layout="responsive"
+    frameborder="0"
+    src="https://speakerdeck.com/player/{{$id}}">
+  </amp-iframe>
+</div>

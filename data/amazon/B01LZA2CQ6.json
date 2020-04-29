@@ -1,0 +1,49 @@
+{
+    "ASIN": "B01LZA2CQ6",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B01LZA2CQ6?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/51b6TA9iISL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/51b6TA9iISL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/51b6TA9iISL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "AZ(エーゼット)",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "株式会社エーゼット",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "ProductGroup": {
+                "DisplayValue": "Automotive Parts and Accessories",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "AZ エーゼット CBP-001 High Power ブレーキパーツクリーナー 420ml AW804",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

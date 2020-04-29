@@ -1,0 +1,54 @@
+{
+    "ASIN": "B071KBCKLD",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B071KBCKLD?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 333,
+                "URL": "https://m.media-amazon.com/images/I/51QEzozFkmL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 107,
+                "URL": "https://m.media-amazon.com/images/I/51QEzozFkmL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 50,
+                "URL": "https://m.media-amazon.com/images/I/51QEzozFkmL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "macaco",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "macaco スラックライン slackline",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "その他",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Sports",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "【初心者用 スラックライン】ビギナーに安心の定番セット 16m 5cm macaco マカコ 日本語版 野外 室内(安心のラバーラチェット ツリーウェア2枚 収納袋 日本語説明書 遊び方トリック集付き)",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "ASIN": "4839960100",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/4839960100?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/51rNACyh7TL.jpg",
+                "Width": 390
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/51rNACyh7TL._SL160_.jpg",
+                "Width": 125
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/51rNACyh7TL._SL75_.jpg",
+                "Width": 58
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Contributors": [
+                {
+                    "Locale": "ja_JP",
+                    "Name": "Gayle Laakmann McDowell",
+                    "Role": "著",
+                    "RoleType": "author"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "岡田 佑一",
+                    "Role": "監修",
+                    "RoleType": "consultant_editor"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "小林 啓倫",
+                    "Role": "監修",
+                    "RoleType": "consultant_editor"
+                }
+            ],
+            "Manufacturer": {
+                "DisplayValue": "マイナビ出版",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "単行本（ソフトカバー）",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Book",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "ContentInfo": {
+            "Languages": {
+                "DisplayValues": [
+                    {
+                        "DisplayValue": "日本語",
+                        "Type": "発行済み"
+                    }
+                ],
+                "Label": "Language",
+                "Locale": "ja_JP"
+            },
+            "PagesCount": {
+                "DisplayValue": 772,
+                "Label": "NumberOfPages",
+                "Locale": "en_US"
+            },
+            "PublicationDate": {
+                "DisplayValue": "2017-02-27T00:00:01Z",
+                "Label": "PublicationDate",
+                "Locale": "en_US"
+            }
+        },
+        "Title": {
+            "DisplayValue": "世界で闘うプログラミング力を鍛える本 ~コーディング面接189問とその解法~",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

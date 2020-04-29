@@ -1,0 +1,62 @@
+{
+    "ASIN": "B000AQRPAM",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B000AQRPAM?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/318GZXmzxYL.jpg",
+                "Width": 267
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/318GZXmzxYL._SL160_.jpg",
+                "Width": 85
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/318GZXmzxYL._SL75_.jpg",
+                "Width": 40
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "プラティパス(Platypus)",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Contributors": [
+                {
+                    "Locale": "ja_JP",
+                    "Name": "0",
+                    "Role": "デザイン",
+                    "RoleType": "designer"
+                }
+            ],
+            "Manufacturer": {
+                "DisplayValue": "Platypus(プラティパス)",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "スポーツ用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Sports",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "Platypus(プラティパス) アウトドア 給水用 ボトル プラティ 容量2L 25601 【日本正規品】",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

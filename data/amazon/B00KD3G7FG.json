@@ -1,0 +1,120 @@
+{
+    "ASIN": "B00KD3G7FG",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B00KD3G7FG?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/51YJjmNUmvL.jpg",
+                "Width": 353
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/51YJjmNUmvL._SL160_.jpg",
+                "Width": 113
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/51YJjmNUmvL._SL75_.jpg",
+                "Width": 53
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "20th Century Fox Jp",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Contributors": [
+                {
+                    "Locale": "ja_JP",
+                    "Name": "ベン・スティラー",
+                    "Role": "出演",
+                    "RoleType": "actor"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "クリステン・ウィグ",
+                    "Role": "出演",
+                    "RoleType": "actor"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "シャーリー・マクレーン",
+                    "Role": "出演",
+                    "RoleType": "actor"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "アダム・スコット",
+                    "Role": "出演",
+                    "RoleType": "actor"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "ショーン・ペン",
+                    "Role": "出演",
+                    "RoleType": "actor"
+                },
+                {
+                    "Locale": "ja_JP",
+                    "Name": "ベン・スティラー",
+                    "Role": "監督",
+                    "RoleType": "director"
+                }
+            ],
+            "Manufacturer": {
+                "DisplayValue": "20世紀フォックス・ホーム・エンターテイメント・ジャパン",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "DVD",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "DVD",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "ContentInfo": {
+            "Languages": {
+                "DisplayValues": [
+                    {
+                        "DisplayValue": "日本語",
+                        "Type": "字幕"
+                    },
+                    {
+                        "DisplayValue": "英語",
+                        "Type": "字幕"
+                    },
+                    {
+                        "DisplayValue": "英語",
+                        "Type": "原語"
+                    },
+                    {
+                        "DisplayValue": "日本語",
+                        "Type": "原語"
+                    },
+                    {
+                        "DisplayValue": "日本語",
+                        "Type": "不明"
+                    }
+                ],
+                "Label": "Language",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "LIFE!/ライフ [DVD]",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

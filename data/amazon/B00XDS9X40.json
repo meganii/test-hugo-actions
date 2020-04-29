@@ -1,0 +1,44 @@
+{
+    "ASIN": "B00XDS9X40",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B00XDS9X40?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/21xnOIKELpL._SL500_.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/21xnOIKELpL.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/21xnOIKELpL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "BootBlack(ブートブラック)",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "ProductGroup": {
+                "DisplayValue": "Shoes",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "【Boot Black ブートブラック】 スプモーニセット（日本製） コロンブス 磨きのプロ達が創り上げたシューケアセット（木箱入り）",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

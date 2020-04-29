@@ -1,0 +1,49 @@
+{
+    "ASIN": "B06XRQXM8G",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B06XRQXM8G?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/41zyIazbcvL.jpg",
+                "Width": 500
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/41zyIazbcvL._SL160_.jpg",
+                "Width": 160
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/41zyIazbcvL._SL75_.jpg",
+                "Width": 75
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "AZ(エーゼット)",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "株式会社エーゼット",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "ProductGroup": {
+                "DisplayValue": "Automotive Parts and Accessories",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "AZ(エーゼット) MCC-002 バイク用 チェーンクリーナー パワーゾル スプレー [チェーンクリーナー/チェーン洗剤/チェンクリーナー/チェン洗浄剤/チェインクリーナー] 420ml AW604",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}

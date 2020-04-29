@@ -1,0 +1,54 @@
+{
+    "ASIN": "B000UUIZO8",
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B000UUIZO8?tag=meganii-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+        "Primary": {
+            "Large": {
+                "Height": 500,
+                "URL": "https://m.media-amazon.com/images/I/419mAN2BO1L.jpg",
+                "Width": 490
+            },
+            "Medium": {
+                "Height": 160,
+                "URL": "https://m.media-amazon.com/images/I/419mAN2BO1L._SL160_.jpg",
+                "Width": 157
+            },
+            "Small": {
+                "Height": 75,
+                "URL": "https://m.media-amazon.com/images/I/419mAN2BO1L._SL75_.jpg",
+                "Width": 74
+            }
+        }
+    },
+    "ItemInfo": {
+        "ByLineInfo": {
+            "Brand": {
+                "DisplayValue": "LAMY",
+                "Label": "Brand",
+                "Locale": "ja_JP"
+            },
+            "Manufacturer": {
+                "DisplayValue": "LAMY",
+                "Label": "Manufacturer",
+                "Locale": "ja_JP"
+            }
+        },
+        "Classifications": {
+            "Binding": {
+                "DisplayValue": "オフィス用品",
+                "Label": "Binding",
+                "Locale": "ja_JP"
+            },
+            "ProductGroup": {
+                "DisplayValue": "Office Product",
+                "Label": "ProductGroup",
+                "Locale": "ja_JP"
+            }
+        },
+        "Title": {
+            "DisplayValue": "LAMY ラミー 万年筆 ペン先EF(極細字) サファリ スケルトン L12-EF 両用式 コンバーター別売 正規輸入品",
+            "Label": "Title",
+            "Locale": "ja_JP"
+        }
+    }
+}
