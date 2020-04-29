@@ -19,6 +19,9 @@ jobs:
         with:
           hugo-version: '0.68.3'
 
+      - name: Setup package.json
+        run: npm install
+
       - name: Build
         run: npm run build
 
